@@ -16,8 +16,17 @@ After searching the code by 'VC redist package download', and you will find the 
 
 # Process
 
-Flow the reference and make a little modification.
-see my 
+Before you start, there are something you'd better know
+
+* [nsis](http://nsis.sourceforge.net/Download): the builder
+* [Dumpstate](http://www.sullust.net/sw/dumpstate/): the plugin of nsis to debug
+* [nssm](https://nssm.cc/): the service manager for windows
+
+Flow the official reference to build your environment and make a little modification to **Salt-Minion-Setup.nsi**, you can find in my repository.
+
+In the dep path, there are dependent binaris. `dep/install.bat` may help you.
+
+finally you will get your setup binary that can be installed silently.
 
 
 

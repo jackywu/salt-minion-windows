@@ -1,0 +1,17 @@
+m2crypto
+pycrypto
+pywin32
+cython
+jinja2
+msgpack-python
+psutil
+pyzmq
+pyyaml
+bbfreeze
+wmi
+requests
+markupsafe
+six
+esky
+certifi
+pefile
