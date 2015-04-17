@@ -28,5 +28,14 @@ In the dep path, there are dependent binaris. `dep/install.bat` may help you.
 
 finally you will get your setup binary that can be installed silently.
 
+# Reference
+
+nsi script specification
+
+* http://nsis.sourceforge.net/Docs/Chapter4.html
+* http://nsis.sourceforge.net/Docs/Chapter2.html
+* http://nsis.sourceforge.net/Docs/Chapter3.html#
+
+
 
 
